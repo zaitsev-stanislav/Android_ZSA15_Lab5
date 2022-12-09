@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="startMarker_id">m0</string>
+    <string name="startMarker_title">Мой дом</string>
+    <string name="startMarker_info">
+        <![CDATA[
+               <b>Район, где я живу<BR>
+        ]]>
+        </string>
+    <string name="startMarker_file"></string>
+
+    <!--  -->
+
+    <string name="marker1_id">m1</string>
+    <string name="marker1_title">ПГУ</string>
+    <string name="marker1_txt_click">Павлодарский государственный университет имени</string>
+    <string name="marker1_info">
+        <![CDATA[
+        <b>Павлодарский государственный университет им. С. Торайгырова</b> (ПГУ)<BR>
+        – один из крупнейших университетов Казахстана.<BR>
+        ПГУ является центром образования, науки и культуры
+        не только в Павлодарском регионе, но и в Республике.<BR>
+        ПГУ им. С.Торайгырова является бесспорным лидером среди
+        учебных заведений в Павлодарской области как по количеству обучающихся,
+        так и по качеству предоставляемых образовательных услуг.<BR>
+        Вуз готовит специалистов высшего профессионального обучения
+        различных направлений на государственном и русском языках
+        по 66 специальностям бакалавриата, 46 специальностям магистратуры,
+        4 специальностям докторантуры PhD. <BR>
+        Подготовку осуществляет 567 преподавателей из них – 47 докторов наук, профессоров,
+        227 кандидатов наук,  доцентов.<BR>
+        Научно-исследовательская работа в университете проводится на
+        базе 41 кафедр и 13 научно-практических центров,
+        Научно-технологического парка «Ертіс», регионального центра инноваций
+        и трансферта технологий, студенческого научного центра.<BR>
+        Телефон: +7 (7182) 67-36-85,<BR> факс: +7 (7182) 67-37-02<BR>
+        Сайт: http://www.psu.kz<BR>
+        ]]>
+        </string>
+    <string name="marker1_file">file:///android_asset/PSU/index.html</string>
+
+    <!--  -->
+
+    <string name="marker2_id">m2</string>
+    <string name="marker2_title">ИнЕУ</string>
+    <string name="marker2_txt_click">Инновационный Евразийский университет</string>
+    <string name="marker2_info">
+        <![CDATA[
+        <b>Инновационный Евразийский университет </b> <BR> вошел в первую
+        пятерку аккредитованных казахстанских вузов.<BR>
+        Вуз прошел государственную аттестацию, национальную
+        институциональную аккредитацию Министерства образования
+        и науки РК, международную аккредитацию.<BR>
+        По результатам Генерального рейтинга, проведенного
+        Независимым казахстанским агентством по обеспечению качества в образовании,
+        ИнЕУ - в десятке лучших многопрофильных казахстанских вузов.<BR>
+        Телефон: +7 (7182) 34-56-78, <BR>+7 (7182) 34-46-56 (факс)<BR>
+        Сайт: http://www.ineu.edu.kz<BR>
+        ]]>
+        </string>
+    <string name="marker2_file">file:///android_asset/INEU/index.html</string>
+
+
+    <string name="marker3_id">m3</string>
+    <string name="marker3_title">Мой дом</string>
+    <string name="marker3_txt_click">Мой дом</string>
+    <string name="marker3_info">
+        <![CDATA[
+        <b>Мой дом</b>
+        ]]>
+        </string>
+    <string name="marker3_file">file:///android_asset/HOME/index.html</string>
+
+    <string name="marker4_id">m4</string>
+    <string name="marker4_title">Торговый дом Арман</string>
+    <string name="marker4_txt_click">Торговый дом Арман</string>
+    <string name="marker4_info">
+        <![CDATA[
+        Торговый дом Арман
+        ]]>
+        </string>
+    <string name="marker4_file">file:///android_asset/ARMAN/index.html</string>
+
+    <string name="marker5_id">m5</string>
+    <string name="marker5_title">Мадлен</string>
+    <string name="marker5_txt_click">Мадлен</string>
+    <string name="marker5_info">
+        <![CDATA[
+        Мадлен
+        ]]>
+        </string>
+    <string name="marker5_file">file:///android_asset/MADLEN/index.html</string>
+
+    <string name="marker6_id">m6</string>
+    <string name="marker6_title">Средняя общеобразовательная школа №9</string>
+    <string name="marker6_txt_click">Средняя общеобразовательная школа №9</string>
+    <string name="marker6_info">
+        <![CDATA[
+        Средняя общеобразовательная школа №9
+        ]]>
+        </string>
+    <string name="marker6_file">file:///android_asset/SCHOOL/index.html</string>
+
+    <string name="marker7_id">m7</string>
+    <string name="marker7_title">Магазин Дания</string>
+    <string name="marker7_txt_click">Магазин Дания</string>
+    <string name="marker7_info">
+        <![CDATA[
+        Магазин Дания
+        ]]>
+        </string>
+    <string name="marker7_file">file:///android_asset/DANIYA/index.html</string>
+
+</resources>

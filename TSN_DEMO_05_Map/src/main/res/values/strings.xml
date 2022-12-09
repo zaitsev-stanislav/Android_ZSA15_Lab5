@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ZSA_05_Map</string>
+    <string name="title_activity_maps">ZSA_05_Map</string>
+    <string name="selectOb">Нет подробной информации или не выбран маркер</string>
+    <string name="selectMarker">selectMarker</string>
+    <string name="title_activity_detail">Map</string>
+    <string name="detail">Подробно…</string>
+    <string name="excursion">"Экскурсия по маркерам"</string>
+    <string name="back">НАЗАД</string>
+    <string name="tMarker">tMarker</string>
+    <string name="mfile">mfile</string>
+
+    <string name="norm">Нормальная</string>
+    <string name="sputnik">Спутниковая</string>
+    <string name="relef">Рельефная</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
