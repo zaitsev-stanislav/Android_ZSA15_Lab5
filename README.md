@@ -2,4 +2,4 @@
 **Разработка мобильных приложений.**
 **Задание 5**
 
-![Screenshot](Screenshot.jpg)
+![Screenshot](screenshot.jpg)
